@@ -26,10 +26,10 @@ This project shows a method you can use to get around that.
 
 ### Useful resources
 
-[MSDN Keyboard Input Documentation](https://learn.microsoft.com/en-us/windows/win32/inputdev/keyboard-input)
-[MSDN MapVirtualKeyW Documentation](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mapvirtualkeyw)
-[MSDN SendInput Documentation](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput)
+- [MSDN Keyboard Input Documentation](https://learn.microsoft.com/en-us/windows/win32/inputdev/keyboard-input)
+- [MSDN MapVirtualKeyW Documentation](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mapvirtualkeyw)
+- [MSDN SendInput Documentation](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput)
 
 ## Acknowledgments
 
-[CasualGamer's YouTube Channel](https://www.youtube.com/@casualgamer1791) - The method i used here i learned from him, who also learned of the method by another person, King Gore in his comments(couldn't find the comment so i am unable to link him here)
+- [CasualGamer's YouTube Channel](https://www.youtube.com/@casualgamer1791) - The method i used here i learned from him, who also learned of the method by another person, King Gore in his comments(couldn't find the comment so i am unable to link him here)
