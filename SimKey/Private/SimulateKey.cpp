@@ -18,7 +18,7 @@ int main()
 }
 */
 
-// May or may not function properly with DirectInput games, works fine for chat however
+// May or may not function properly with DirectInput applications, works fine for chat however
 void SimKey::SendKey(WCHAR key)
 {
 	INPUT input{};
@@ -33,7 +33,7 @@ void SimKey::SendKey(WCHAR key)
 	SendInput(1, &input, sizeof(input));
 }
 
-// Credits to King Gore from youtube comments for pointing out how to make SendInput work with DirectX games. Highly recommended to use this one.
+// Credits to King Gore from youtube comments for pointing out how to make SendInput work with DirectX applications. Highly recommended to use this one.
 void SimKey::SendKeyDX(WCHAR key)
 {
 	key = VkKeyScanW(key);
