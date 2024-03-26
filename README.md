@@ -32,4 +32,4 @@ This project shows a method you can use to get around that.
 
 ## Acknowledgments
 
-- [CasualGamer's YouTube Channel](https://www.youtube.com/@casualgamer1791) - The method i used here i learned from him.
+- [CasualGamer's YouTube Channel](https://www.youtube.com/@casualgamer1791) - The method i used here i learned from him and a commenter on his channel, King Gore.
